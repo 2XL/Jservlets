@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jettison-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rocket Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/lib/shared/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Rocket%20Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="tapClient"/>
+	<classpathentry kind="src" path="tapServer"/>
+	<classpathentry kind="lib" path="C:/Users/Rocket Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/lib/opt/user/datanucleus/v2/jdo-api-3.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Rocket%20Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Rocket Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/lib/user/appengine-api-1.0-sdk-1.7.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Rocket%20Knight/Documents/URV/eclipse-SDK-3.6.1-win32/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.7.3/appengine-java-sdk-1.7.3/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
